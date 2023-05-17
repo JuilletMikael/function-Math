@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mikael.JUILLET\\.nuget\\packages\\": {}
+    "C:\\Users\\juill\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mikael.JUILLET\\Desktop\\function-Math\\function-math\\function-math\\function-math.csproj",
+      "projectUniqueName": "D:\\CPNV\\function-Math\\function-math\\function-math\\function-math.csproj",
       "projectName": "function-math",
-      "projectPath": "C:\\Users\\Mikael.JUILLET\\Desktop\\function-Math\\function-math\\function-math\\function-math.csproj",
-      "packagesPath": "C:\\Users\\Mikael.JUILLET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mikael.JUILLET\\Desktop\\function-Math\\function-math\\function-math\\obj\\",
+      "projectPath": "D:\\CPNV\\function-Math\\function-math\\function-math\\function-math.csproj",
+      "packagesPath": "C:\\Users\\juill\\.nuget\\packages\\",
+      "outputPath": "D:\\CPNV\\function-Math\\function-math\\function-math\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mikael.JUILLET\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\juill\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
