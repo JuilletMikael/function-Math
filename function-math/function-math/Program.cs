@@ -1,31 +1,73 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Diagnostics.CodeAnalysis;
+using System.Reflection.Metadata.Ecma335;
 using System.Security.Cryptography.X509Certificates;
 
-Console.WriteLine("Hello, World!");
+double userA  = 0;
+double userB = 1.5;
+double E  = 0.00000001;
+string userFunction = null;
 
-float A  = 0;
-float B = 1;
-float E  = 0;
+double A = 0;
+double B = 1.5;
+
+Console.WriteLine("Origin = [" + A + ";" + B +"]");
+Console.WriteLine("Epsilon =" + E );
 
 
-if (f(A)* f(B) > 0 )
+while (averageIntervals(A, B)> E)
 {
-    Console.WriteLine(f(A) * f(B));
-}
-else
-{
-    Console.WriteLine(f(A) * f(B));
+    if (f(averageIntervals(A, B)) >= 0)
+    {
+        B = averageIntervals(A, B);
+        Console.WriteLine("[" + A + ";" + B + "]");
+    }
+    else
+    {
+        A = averageIntervals(A, B);
+        Console.WriteLine("[" + A + ";" + B + "]");
+    }
 }
 
 
-static float AverageIntervals(float a, float b)
+
+static double averageIntervals(double a, double b)
 {
    return (a + b) / 2;
 }
 
-static float f(float x)
+
+static double f(double x)
 {
-   return (float)(Math.Pow(x, 5) - Math.Pow(x, 2) + 3);
+   return (double)(Math.Pow(x, 4) * (Math.Pow(x, 3) - 4) -1 * (Math.Pow(x, 3) - 4));
 }
 
+static void placementIntervals(double a, double b)
+{
+    if ((double)a < (double)b)
+    {
+        A = a;
+        B = b;
+    }
+    else
+    {
+        A = b;
+        B = a;  
+    }
+}
+
+static void askUser()
+{
+    Console.WriteLine("Quel est votre fonction ?");
+    //userFunction = Console.ReadLine();
+
+    Console.WriteLine("Quel est votre intervale négative ?");
+    string a = Console.ReadLine();
+    Console.WriteLine(a);
+
+    Console.WriteLine("Quel est votre intervale positive ?");
+    string b = Console.ReadLine();
+
+    Console.WriteLine("Quel est l'Epsilon ?");
+    string E = Console.ReadLine();
+}
