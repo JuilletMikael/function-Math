@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mikael.JUILLET\\Desktop\\function-Math\\function-math\\function-math\\function-math.csproj",
-      "projectName": "function-math",
-      "projectPath": "C:\\Users\\Mikael.JUILLET\\Desktop\\function-Math\\function-math\\function-math\\function-math.csproj",
+      "projectUniqueName": "C:\\Users\\Mikael.JUILLET\\Desktop\\function-Math\\function-math\\aire\\aire.csproj",
+      "projectName": "aire",
+      "projectPath": "C:\\Users\\Mikael.JUILLET\\Desktop\\function-Math\\function-math\\aire\\aire.csproj",
       "packagesPath": "C:\\Users\\Mikael.JUILLET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mikael.JUILLET\\Desktop\\function-Math\\function-math\\function-math\\obj\\",
+      "outputPath": "C:\\Users\\Mikael.JUILLET\\Desktop\\function-Math\\function-math\\aire\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mikael.JUILLET\\AppData\\Roaming\\NuGet\\NuGet.Config",

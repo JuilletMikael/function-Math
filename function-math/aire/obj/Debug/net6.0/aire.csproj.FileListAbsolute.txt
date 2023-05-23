@@ -1,0 +1,15 @@
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\bin\Debug\net6.0\aire.exe
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\bin\Debug\net6.0\aire.deps.json
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\bin\Debug\net6.0\aire.runtimeconfig.json
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\bin\Debug\net6.0\aire.dll
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\bin\Debug\net6.0\aire.pdb
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\obj\Debug\net6.0\aire.csproj.AssemblyReference.cache
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\obj\Debug\net6.0\aire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\obj\Debug\net6.0\aire.AssemblyInfoInputs.cache
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\obj\Debug\net6.0\aire.AssemblyInfo.cs
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\obj\Debug\net6.0\aire.csproj.CoreCompileInputs.cache
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\obj\Debug\net6.0\aire.dll
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\obj\Debug\net6.0\refint\aire.dll
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\obj\Debug\net6.0\aire.pdb
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\obj\Debug\net6.0\aire.genruntimeconfig.cache
+C:\Users\Mikael.JUILLET\Desktop\function-Math\function-math\aire\obj\Debug\net6.0\ref\aire.dll
