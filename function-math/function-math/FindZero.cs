@@ -45,7 +45,7 @@ class FindZero
     //J'ai choisis celle ci car je trouvais cela complexe de transformer une unxion donné par l'utilisateur en format texte en fonction en code. 
     static double f(double x)
     {
-        return (double)(Math.Pow(x, 4) * (Math.Pow(x, 3) - 4) - 1 * (Math.Pow(x, 3) - 4));
+        return (double)Math.Exp(-x) - x;
     }
 
     static void placementIntervals(double a, double b)
